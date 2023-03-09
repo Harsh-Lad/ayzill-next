@@ -1,0 +1,50 @@
+.parentContainer {
+  background-image: url("../../public/images/signupBg.png");
+  height: 100vh;
+  background-size: cover;
+}
+
+.formHead {
+  font-family: "pSans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 31.1px;
+  line-height: 38px;
+
+  /* identical to box height */
+
+  color: #3d3d3d;
+}
+
+.formSubHead {
+  font-family: "pSans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.995px;
+  line-height: 17px;
+
+  /* identical to box height */
+
+  color: #3d3d3d;
+}
+
+.formSubHead1 {
+  font-family: "pSans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19.4375px;
+  line-height: 24px;
+
+  /* identical to box height */
+
+  color: #3d3d3d;
+}
+
+.formWrapper {
+  height: 90vh;
+  background-color: #fff;
+  width: 290px;
+  position: absolute;
+  top: 18vh;
+  left: 18%;
+}

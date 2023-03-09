@@ -1,0 +1,13 @@
+
+.mlBadge{
+    width: fit-content !important;
+    font-size:medium;
+    border: 2px solid #4c7df0 !important;
+    color: #4c7df0 !important;
+    background-color: #fff !important;  
+  }
+  
+  .proContain{
+    padding-left: 4.5rem;
+  }
+  

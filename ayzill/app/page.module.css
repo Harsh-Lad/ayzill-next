@@ -1,0 +1,115 @@
+
+@import url(https://fonts.googleapis.com/css?family=Bebas+Neue:regular);
+
+.secondSection {
+    background-image: url("../public/images/secondImg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 450px;
+  }
+  
+  .textSection {
+    position: relative;
+  }
+  
+  .pureText {
+    font-family: "Bebas Neue";
+    font-size: 65px;
+    font-weight: 400;
+    line-height: 65px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  
+  .supportText {
+    font-family: "Wasatsh Brush";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 110px;
+    line-height: 118px;
+    text-align: center;
+    color: #4c7df0;
+  }
+
+  
+.tsPureText {
+    font-family: "Bebas Neue";
+    font-size: 65px;
+    font-weight: 400;
+    line-height: 65px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  
+  .tsSupportText {
+    font-family: "Wasatsh Brush";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 110px;
+    line-height: 20px;
+    text-align: center;
+    color: #4c7df0;
+    margin-top: -40px;
+    margin-left: -20px;
+  }
+
+  .tsSupportTextFourth{
+    font-family: "Wasatsh Brush";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 110px;
+    line-height: 20px;
+    text-align: center;
+    color: #4c7df0;
+    margin-top: -40px;
+    margin-left: -20px;
+  }
+  
+  .phoneMenuBtn {
+    font-size: x-large;
+    display: none;
+  }
+  
+  .whyChooseUsText {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #3a3b48;
+    padding-left: 2.5rem;
+  }
+  
+  .helpTextThirdSection {
+    font-family: "DM Sans", sans-serif;
+    padding-left: 2.5rem;
+  }
+  
+  .helpTextThirdSection1 {
+    font-family: "DM Sans", sans-serif;
+    padding-left: 2.5rem;
+    color: #4c7df0;
+  }
+
+
+.productsBack{
+    /* background-image: url("../public/images/bot.png");
+    background-repeat: no-repeat;
+    background-position: center; */
+  }
+
+.mlBadge{
+  width: fit-content !important;
+  font-size:medium;
+  border: 2px solid #4c7df0 !important;
+  color: #4c7df0 !important;
+  background-color: #fff !important;  
+}
+
+.proContain{
+  padding-left: 4.5rem;
+}
+
+.helpTextThirdSection12 {
+  font-family: "DM Sans", sans-serif;
+}
